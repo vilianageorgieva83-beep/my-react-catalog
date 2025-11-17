@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "level": "Beginner",
+    "duration": "4 weeks",
+    "price": 99,
+    "description": "Learn the fundamentals of React: components, props, state, and events."
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials",
+    "level": "Beginner",
+    "duration": "3 weeks",
+    "price": 79,
+    "description": "Understand variables, functions, loops, objects, and modern ES6+ features."
+  },
+  {
+    "id": 3,
+    "title": "HTML & CSS Bootcamp",
+    "level": "Beginner",
+    "duration": "2 weeks",
+    "price": 49,
+    "description": "Build modern and responsive web pages using HTML5 and CSS3."
+  },
+  {
+    "id": 4,
+    "title": "Node.js Backend Basics",
+    "level": "Intermediate",
+    "duration": "5 weeks",
+    "price": 129,
+    "description": "Learn how to build APIs using Node.js, Express, and middleware."
+  },
+  {
+    "id": 5,
+    "title": "Full-Stack Project",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "price": 199,
+    "description": "Develop a complete full-stack application using React and Node.js."
+  },
+  {
+    "id": 6,
+    "title": "TypeScript Masterclass",
+    "level": "Advanced",
+    "duration": "4 weeks",
+    "price": 149,
+    "description": "Improve your JavaScript projects with TypeScript types, interfaces, and generics."
+  },
+  {
+    "id": 7,
+    "title": "Python Fundamentals",
+    "level": "Beginner",
+    "duration": "4 weeks",
+    "price": 89,
+    "description": "Learn Python basics, including variables, functions, loops, and file operations."
+  },
+  {
+    "id": 8,
+    "title": "SQL & Databases",
+    "level": "Intermediate",
+    "duration": "3 weeks",
+    "price": 109,
+    "description": "Master SQL queries, joins, constraints, indexes, and relational database concepts."
+  },
+  {
+    "id": 9,
+    "title": "Advanced Git & GitHub",
+    "level": "Intermediate",
+    "duration": "2 weeks",
+    "price": 69,
+    "description": "Learn branching strategies, pull requests, rebasing, and team workflows."
+  },
+  {
+    "id": 10,
+    "title": "APIs with Express & MongoDB",
+    "level": "Advanced",
+    "duration": "5 weeks",
+    "price": 159,
+    "description": "Build production-ready REST APIs using Express.js and MongoDB Atlas."
+  }
+]
